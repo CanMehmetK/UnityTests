@@ -1,0 +1,9 @@
+{
+    "name": "Unity.Ucg.Usqp",
+    "references": [
+           "Unity.Networking.Transport"
+    ],
+    "includePlatforms": ["Editor", "macOSStandalone", "WindowsStandalone32", "WindowsStandalone64", "LinuxStandalone32", "LinuxStandalone64", "LinuxStandaloneUniversal"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}

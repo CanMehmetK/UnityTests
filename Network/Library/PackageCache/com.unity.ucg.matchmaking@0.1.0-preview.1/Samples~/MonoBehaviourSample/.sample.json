@@ -1,0 +1,5 @@
+{
+	"displayName": "Monbehaviour Sample",
+	"description": "Example of using the matchmaking client API in a monobehaviour model",
+	"createSeparatePackage": false
+}

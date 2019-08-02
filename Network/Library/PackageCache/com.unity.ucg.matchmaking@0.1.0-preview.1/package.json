@@ -1,0 +1,25 @@
+{
+  "name": "com.unity.ucg.matchmaking",
+  "displayName": "Multiplay Matchmaking",
+  "version": "0.1.0-preview.1",
+  "unity": "2019.1",
+  "description": "Unity client package for Multiplay's cloud-hosted Matchmaking service.\n\nProvides a reference Unity implementation of a matchmaking client which calls the Matchmaking service's web APIs.\n\nSee unity3d.com/connectedgames for more information.",
+  "keywords": [
+    "matchmaking",
+    "multiplayer",
+    "connected games"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.cds.internal.unity3d.com:unity/com.unity.ucg.matchmaking.git",
+    "revision": "3f09c2b4ecc1e9e5c468b16d4eae64bbdcc2b8a5"
+  },
+  "samples": [
+    {
+      "displayName": "Monbehaviour Sample",
+      "description": "Example of using the matchmaking client API in a monobehaviour model",
+      "path": "Samples~\\MonoBehaviourSample"
+    }
+  ]
+}

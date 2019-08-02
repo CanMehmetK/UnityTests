@@ -1,0 +1,17 @@
+{
+    "name": "UnityEngine.Ucg.Matchmaking.Tests",
+    "references": [
+        "UnityEngine.Ucg.Matchmaking"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": []
+}

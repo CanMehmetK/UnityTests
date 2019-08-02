@@ -1,0 +1,5 @@
+{
+	"displayName": "MonoBehaviourSample",
+	"description": "Example of using the USQP Server API in a monobehaviour model",
+	"createSeparatePackage": false
+}
